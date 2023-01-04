@@ -1,6 +1,6 @@
 **Hi there👋 I'm konkarin!**
 
-[konkarin.photo](https://konkarin.photo)
+[blog](https://konkarin.photo/articles),  [garally](https://konkarin.photo/garally)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=konkarin&layout=compact&show_icons=true&theme=onedark" />
